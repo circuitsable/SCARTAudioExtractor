@@ -5,6 +5,8 @@ This is a PCB that acts as a SCART female-to-female coupler, but extracts the au
 
 ![Board in use](images/usage.jpg)
 
+Note: Has not yet been assembled/tested.
+
 # Why/About
 
 I have several older game consoles that output their video and audio over SCART, and I often want to listen to the game audio with headphones.
