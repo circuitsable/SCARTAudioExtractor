@@ -11,6 +11,8 @@ I have several older game consoles that output their video and audio over SCART,
 
 I designed this board because the few products that extract audio from a SCART cable either terminate to RCA jacks, are out of stock, or do not support RGB.
 
+This board must be right before your display! Audio is completely removed from the SCART cable, and you will not get audio from the output SCART connector. This coupler also does not support daisy chaining and removes the mostly unused D2B bus signals as well.
+
 # What you'll need
 
 The PCB, of which gerbers are available for in the repo. The PCB can be ordered from any board house, some examples of which are [Oshpark](https://oshpark.com/#services), [PCBWay](https://www.pcbway.com/QuickOrderOnline.aspx) or [JLCPCB](https://cart.jlcpcb.com/quote). The PCB was designed in mind with PCBWay as the board house, so it has a marker for their production numbers. You may want/need to edit this out before ordering from another board house.
