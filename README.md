@@ -41,6 +41,8 @@ Solder the SMD resistors first, then the through hole parts.
 
 ![PCB Back](images/back.jpg)
 
+![Schematic](images/schematic.jpg)
+
 # TODO
 
 Design a 3D printable shell to protect against shorts/damage to the board.
