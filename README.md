@@ -23,15 +23,10 @@ The PCB, of which gerbers are available for in the repo. The PCB can be ordered 
 
 1 Female 3.5mm TRS Jack (specifically, [Jack_3.5mm_CUI_SJ1-3523N_Horizontal](https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf)). This can be bought from [Mouser](https://www.mouser.com/ProductDetail/CUI-Devices/SJ1-3523N?qs=WyjlAZoYn50aNl0vAhb3Tg%3D%3D), [Digikey](https://www.digikey.com/en/products/detail/cui-devices/SJ1-3523N/738689) or Aliexpress [here](https://www.aliexpress.us/item/2251832685563184.html), [here](https://www.aliexpress.us/item/3256803939752840.html) or [here](https://www.aliexpress.us/item/3256805272161608.html).
 
-4 75 Ohm 0805 SMD resistors. They can be bough basically anywhere, like on [Mouser](https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW080575R0FKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8g1U7tLIvu1p%2FRDZzZLdPo1Q%3D%3D), [Digikey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805JT75R0/1757816), or Aliexpress [here](https://www.aliexpress.us/item/3256802835264596.html), [here](https://www.aliexpress.us/item/3256804579195022.html) or [here](https://www.aliexpress.us/item/3256802197726026.html).
 
 Basic soldering equipment.
 
 (Optional) Rubber feet or a case of some sort
-
-# Assembly
-
-Solder the SMD resistors first, then the through hole parts.
 
 # PCB Images
 
