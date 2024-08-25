@@ -504,6 +504,15 @@
     (uuid fdebbfef-5243-40ae-ab02-787ac19ee55e)
   )
 
+  (text "Take input from the input pins on the pinout only" (at 76.2 133.35 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2374d7ff-9a40-43c6-b4d5-ec340be15da9)
+  )
+  (text "Termination is only done in series at the transmitter, and in parallel to ground at the reciever"
+    (at 76.2 138.43 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 28d0d053-cea1-4a8c-9284-81f528e60056)
+  )
   (text "Input" (at 76.2 118.11 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 321e91af-9ba6-4efd-a935-dc1d0f9acab3)
@@ -515,6 +524,16 @@
   (text "by sable!!!!!!!!!!!!!!!!!!!!!!!" (at 182.88 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 373261d4-de14-455b-a7b3-fd9a574f63ca)
+  )
+  (text "http://fr.meric.free.fr/Articles/articlesba/stsurtvplat/Scart/BS_EN_50049-1%20Peritelevision%20connector.pdf"
+    (at 76.2 140.97 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 640ef602-6cbc-46c0-b384-61c536f114d8)
+  )
+  (text "Impedance matching is not needed, the impedance is dealt with at the terminations"
+    (at 76.2 135.89 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 95b52dd8-ff54-4868-ba16-49aba67ebb7b)
   )
 
   (global_label "Red" (shape input) (at 68.58 76.2 180) (fields_autoplaced)
