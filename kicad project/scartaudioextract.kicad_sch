@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Scart Audio Extractor")
+    (date "8/25/2024")
+    (rev "1.2")
+    (comment 1 "made by sable!!!!!!!!!!!!!!!!!!!!!!!")
+  )
+
   (lib_symbols
     (symbol "Connector:SCART-F" (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 31.75 0)
@@ -504,7 +511,8 @@
     (uuid fdebbfef-5243-40ae-ab02-787ac19ee55e)
   )
 
-  (text "Take input from the input pins on the pinout only" (at 76.2 133.35 0)
+  (text "Take input from the input pins on the scart pinout only"
+    (at 76.2 133.35 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2374d7ff-9a40-43c6-b4d5-ec340be15da9)
   )
@@ -521,19 +529,20 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3449eb82-2c32-4827-b587-87654cfc5163)
   )
-  (text "by sable!!!!!!!!!!!!!!!!!!!!!!!" (at 182.88 173.99 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 373261d4-de14-455b-a7b3-fd9a574f63ca)
-  )
   (text "http://fr.meric.free.fr/Articles/articlesba/stsurtvplat/Scart/BS_EN_50049-1%20Peritelevision%20connector.pdf"
-    (at 76.2 140.97 0)
+    (at 76.2 143.51 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 640ef602-6cbc-46c0-b384-61c536f114d8)
   )
-  (text "Impedance matching is not needed, the impedance is dealt with at the terminations"
+  (text "Impedance matching is not needed, it is not in the SCART spec"
     (at 76.2 135.89 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 95b52dd8-ff54-4868-ba16-49aba67ebb7b)
+  )
+  (text "A female to female cable/coupler is accepted in the SCART spec\n"
+    (at 76.2 140.97 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d74c250e-0857-40c4-87f9-3a4e578c6e2a)
   )
 
   (global_label "Red" (shape input) (at 68.58 76.2 180) (fields_autoplaced)
