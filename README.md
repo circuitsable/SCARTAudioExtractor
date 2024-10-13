@@ -11,9 +11,11 @@ Note: Has not yet been used, only tested with multimeter.
 
 I have several older game consoles that output their video and audio over SCART, and I often want to listen to the game audio with headphones.
 
-I designed this board because the few products that extract audio from a SCART cable either terminate to RCA jacks, are out of stock, or do not support RGB (This being said, create an issue if you would like a version that uses RCA jacks instead).
+I designed this board because the few products that extract audio from a SCART cable either terminate to RCA jacks, are out of stock, or do not support RGB.
 
 This board must be right before your display! Audio is completely removed from the SCART cable, and you will not get audio from the output SCART connector. This coupler also does not support daisy chaining and removes the mostly unused D2B bus signals as well.
+
+Create an issue if you would like a version that uses RCA jacks or JP-21.
 
 # What you'll need
 
