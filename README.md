@@ -5,7 +5,7 @@ This is a PCB that acts as a SCART female-to-female coupler/gender changer, but 
 
 ![Board in use](images/usage.jpg)
 
-Note: Has not yet been tested.
+Note: Has not yet been used, only tested with multimeter.
 
 # Why/About
 
