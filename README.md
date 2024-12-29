@@ -5,8 +5,6 @@ This is a PCB that acts as a SCART female-to-female coupler/gender changer, but 
 
 ![Board in use](images/usage.jpg)
 
-Note: Video output has not been tested yet, waiting on a SCART to SCART cable. Audio works fine however.
-
 # Why/About
 
 I have several older game consoles that output their video and audio over SCART, and I often want to listen to the game audio with headphones.
