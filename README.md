@@ -1,5 +1,7 @@
 # SCARTAudioExtractor
-This is a PCB that acts as a SCART female-to-female coupler/gender changer, but extracts the audio from the input to a 3.5mm TRS jack (EuroSCART only).
+This is a PCB that acts as a SCART female-to-female coupler/gender changer, but extracts the audio from the input to a 3.5mm TRS jack, with multiple SCART variations available.
+- Euro to Euro Extract (you probably want this one)
+- JP21 to Euro Extract
 
 ![Assembled board](images/assembled.jpg)
 
