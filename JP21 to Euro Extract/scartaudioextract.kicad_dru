@@ -1,0 +1,4 @@
+(version 1)
+(rule "Small Edge Cut Fillets"
+   (constraint edge_clearance (min 1.0mm))
+   (condition "A.Layer == 'Edge.Cuts' && A.Type == 'Arc' && A.Radius < 1.0mm"))
