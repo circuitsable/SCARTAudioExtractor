@@ -19,7 +19,7 @@ Create an issue if you would like a version that uses RCA jacks or JP-21.
 
 # What you'll need
 
-The PCB, of which gerbers are available for in the [releases](https://github.com/circuitsable/SCARTAudioExtractor/releases/tag/gerbers). The PCB can be ordered from any board house, some examples of which are [Oshpark](https://oshpark.com/#services), [PCBWay](https://www.pcbway.com/QuickOrderOnline.aspx) or [JLCPCB](https://cart.jlcpcb.com/quote). Included in the releases are two versions, for PCBWay and JLCPCB respectively, which each have the board house's order number markers in the apropriate place.
+The PCB, of which gerbers are available for in the [releases](https://github.com/circuitsable/SCARTAudioExtractor/releases/tag/gerbers). The PCB can be ordered from any board house, some examples of which are [Oshpark](https://oshpark.com/#services), [PCBWay](https://www.pcbway.com/QuickOrderOnline.aspx) or [JLCPCB](https://cart.jlcpcb.com/quote).
 
 2 Female SCART Connectors (specifically, [KYCON_SCART_K-SCARTX-022_Horizontal](https://www.mouser.com/datasheet/2/222/K-SCARTX-022-183347.pdf)). No major suppliers carry SCART connectors anymore as far as I'm aware, you can find listings on Aliexpress [here (LR Ear)](https://www.aliexpress.us/item/3256803860252051.html), [here (VER3)](https://www.aliexpress.us/item/2255800585241541.html) or [here (03)](https://www.aliexpress.us/item/3256806450160956.html). Ensure that the part that juts out is on the top (opposite side of the pins), the connector has ears, is a horizontal/90 degree connector, has all 21 pins (to ensure RGB support), and does not have any extra mounting methods besides the ears (e.g, screw holes).
 
